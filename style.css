@@ -1,0 +1,83 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: cornsilk;
+    color: deepskyblue;
+    margin: 0;
+}
+
+header {
+    background-color: #97abce;
+    color: white;
+    text-align: center;
+     
+}
+
+
+.Food {
+    color: LightSlateGrey;
+}
+
+.Dir {
+    color:DarkGray;
+}
+
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+
+h2 strong {
+    font-family:Georgia ;
+    color: DarkGoldenRod;
+    
+}
+
+ul, ol {
+    margin-left: 20px;
+    font-weight:light;
+    margin-bottom: 0.2em;
+}
+
+ a:link {  
+        color:#8d56b0;  
+    }
+
+  a:hover {  
+        color:#dfe78d;  
+    }
+
+a:visited {  
+        color:#8de7a2;  
+    }
+
+  a:active {  
+        color:#8de7d4;  
+    }
+
+
+h2, h3 {
+    color:rgb(52, 90, 123);
+}
+
+
+ul {
+    
+    font-family: 'Calibri';
+   color:burlywood
+
+}
+
+h1, h2, header, img {border: 2px lightgoldenrodyellow}
+
+h1, h2, img {header: 4px lightyellow}
+
+img {
+    float: right;
+    margin: 1em;
+}
+
+#container {
+    display: flex;
+}
+
